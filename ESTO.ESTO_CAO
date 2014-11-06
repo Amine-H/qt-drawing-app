@@ -1,0 +1,26 @@
+/////////////////////////////////////////
+//Code Ecrite Par Amine Hakkou//
+///////////////////////////////////////
+//E
+set color blue
+ajout ligne 0 0 100 0
+ajout ligne 0 100 50 100
+ajout ligne 0 200 100 200
+ajout ligne 0 0 0 200
+
+//S
+set color green
+ajout ligne 150 0 250 0
+ajout ligne 150 100 250 100
+ajout ligne 150 200 250 200
+ajout ligne 150 0 150 100
+ajout ligne 250 100 250 200
+
+//T
+set color yellow
+ajout ligne 300 0 500 0
+ajout ligne 400 0 400 200
+
+//O
+set color red
+ajout rect 550 0 650 200

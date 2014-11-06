@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>ellipse.png</file>
+        <file>polygon.png</file>
+        <file>rect.png</file>
+        <file>ligne.png</file>
+        <file>arrow-left.png</file>
+        <file>arrow-right.png</file>
+        <file>book.png</file>
+        <file>document.png</file>
+        <file>floppy-disc.png</file>
+        <file>info.png</file>
+        <file>folder.png</file>
+        <file>window.png</file>
+        <file>colors.png</file>
+        <file>monitor.png</file>
+        <file>remplissement.png</file>
+    </qresource>
+</RCC>
